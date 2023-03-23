@@ -1,0 +1,226 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+/* .avatar-container {
+    border: 1px solid black;
+    width: 300px;
+}
+.avatar-content img {
+    width: 100%;
+    height: 270px;
+}
+.luotxem{
+    position: absolute; 
+    bottom: 5px;
+    left: 0; 
+    color: white;
+    background-color: black;
+    padding-right: 150px;
+    opacity: 0.3;
+}
+.avatar-content{
+    position: relative;
+}
+.cmt{
+    width: 100%;
+} */
+
+
+
+
+
+/* .khung{
+    border: 1px solid black;
+    width: 530px;
+    height: 360px;
+    margin-top: 100px;
+    margin-left: 100px;
+    position: relative;
+    background-image: url("https://th.bing.com/th/id/R.3cf5ab1b86dd5ce475a5d6c47a96b091?rik=Pv7rsqsPuWthIA&riu=http%3a%2f%2f4.bp.blogspot.com%2f_znalBT8tKqY%2fTFjLftaffhI%2fAAAAAAAAAAk%2fv18mzZZgCTw%2fs1600%2ft55sndr3jgbngxz8iv3s.jpg&ehk=ig0EEbHiNB%2fiuLKq8g27EXEL1S9VcbmC91fVmMFewN8%3d&risl=&pid=ImgRaw&r=0");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.bo{
+    color: white;
+    background-color: aqua;
+    position:absolute;
+    top: 25px;
+    left: 20px;
+}
+.mieuta{
+    color: white;
+    width: 100px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+.a1{
+    color: white;
+    position: absolute;
+    top: 40px;
+    right: 20px;
+    border: 1px solid white;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+.a2{
+    color: white;
+    position: absolute;
+    top: 99px;
+    right: 20px;
+    border: 1px solid white;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}.a3{
+    color: white;
+    position: absolute;
+    top: 159px;
+    right: 20px;
+    border: 1px solid white;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+.ke{
+    border: 1px solid white;
+    background-color: white;
+    width: 3px;
+    height: 30px;
+    position: absolute;
+    top:70px ;
+    right: 33px;
+}
+.ke2{
+    border: 1px solid white;
+    background-color: white;
+    width: 3px;
+    height: 30px;
+    position: absolute;
+    top: 129px;px ;
+    right: 33px;
+} */
+
+
+
+
+
+/* .khung{
+    border: 1px solid black;
+    width: 530px;
+    height: 530px;
+    margin-top: 100px;
+    margin-left: 100px;
+    position: relative;
+    background-image: url("https://antimatter.vn/wp-content/uploads/2022/11/hinh-anh-cute.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px;
+}
+.khung .noidung{
+    position: absolute;
+    bottom: 18px;
+    left: 40px;
+} */
+
+
+
+
+/* .khung {
+    background-color: rgb(224, 83, 228);
+    color: white;
+    border: 1px solid gray;
+    width: 500px;
+    height: 400px;
+    position: relative;
+    padding: 20px;
+}
+p {
+    font-size: 10px;
+}
+.noidung {
+    border: 1px solid rgb(97, 19, 98);
+
+    padding: 20px;
+    background-color: rgb(97, 19, 98);
+}
+.tieude2 {
+    text-align: right;
+    padding: 0 10px;
+
+}
+.tieude2 span:first-child {
+    background-color: rgb(97, 19, 98);
+} */
+
+
+
+
+/* .khungto {
+    height: 300px;
+    background-image: linear-gradient(to right, rgb(147, 70, 209), rgb(155, 55, 237));
+    width: 600px;
+    position: relative;
+}
+
+.khungnho {
+    background-color: white;
+    border: 1px solid black;
+    width: 350px;
+    height: 200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.noidung1{
+    padding:20px ;
+}
+.noidung2{
+    padding:20px ;
+}
+.a1{
+    font-size: 10px;
+    color: rgb(112, 117, 117);
+}
+.a2{
+    font-size: 10px;
+    color: rgb(112, 117, 117);
+    position: absolute;
+    top: 010px;
+    right: 010px;
+} */
+
+
+
+
+
+
+/* .khung {
+    border: 1px solid black;
+    width: 530px;
+    height: 360px;
+    margin-top: 100px;
+    margin-left: 100px;
+    position: relative;
+    background-image: url("./../CSSbaitap.HTML/anh/hinh-anh-chill-dep.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.khung2{
+    border: 1px solid silver;
+    width:530px;
+    height:150px ;
+    position: absolute;
+    color: white;
+    text-align: center;
+
+} */
+
